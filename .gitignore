@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+payments-lib/internal_dependencies.gradle
